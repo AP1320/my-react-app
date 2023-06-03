@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LibraryPractice/static/css/main.073c9b0a.css",
+    "main.js": "/LibraryPractice/static/js/main.43fbc272.js",
+    "static/js/787.28cb0dcd.chunk.js": "/LibraryPractice/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/LibraryPractice/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/LibraryPractice/index.html",
+    "main.073c9b0a.css.map": "/LibraryPractice/static/css/main.073c9b0a.css.map",
+    "main.43fbc272.js.map": "/LibraryPractice/static/js/main.43fbc272.js.map",
+    "787.28cb0dcd.chunk.js.map": "/LibraryPractice/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.43fbc272.js"
+  ]
+}
